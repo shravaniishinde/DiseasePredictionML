@@ -1,1 +1,2 @@
 # DiseasePredictionML
+The goal of this project is to predict whether a patient is at risk of heart disease (CHD) within the next 10 years based on various medical features such as age, sex, cholesterol levels, blood pressure, smoking habits, and glucose levels. We used Logistic regression, classification algorithm to predict the target variable, TenYearCHD (indicating whether a patient can have heart disease in 10 years).
